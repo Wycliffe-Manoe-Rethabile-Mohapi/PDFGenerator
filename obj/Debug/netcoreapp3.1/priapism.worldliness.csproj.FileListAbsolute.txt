@@ -1,0 +1,10 @@
+C:\Users\mohap\source\repos\NML\bin\Debug\netcoreapp3.1\priapism.worldliness.deps.json
+C:\Users\mohap\source\repos\NML\bin\Debug\netcoreapp3.1\priapism.worldliness.dll
+C:\Users\mohap\source\repos\NML\bin\Debug\netcoreapp3.1\priapism.worldliness.pdb
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.csproj.AssemblyReference.cache
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.AssemblyInfoInputs.cache
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.AssemblyInfo.cs
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.csproj.CoreCompileInputs.cache
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.dll
+C:\Users\mohap\source\repos\NML\obj\Debug\netcoreapp3.1\priapism.worldliness.pdb
